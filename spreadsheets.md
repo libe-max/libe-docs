@@ -18,6 +18,7 @@
   - Copier les cellules de la ligne que l'on veut déplacer
   - La coller dans la ligne fraichement créée
   - Vider les cellules de la ligne copiée
+- Veiller à ne pas laisser de retour à la ligne en fin de case, ce qui peut arriver lorsque l'on colle dans une case du texte copié ailleurs. Les retours à la ligne en fin de case feront systématiquement planter les applications et seront difficiles à retrouver par la suite, il faut donc être vigilant au moment du remplissage
 
 
 ### À propos des colonnes "ID"
