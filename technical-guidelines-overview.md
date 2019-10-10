@@ -5,7 +5,7 @@ Quelques informations d'ordre général avant de se lancer dans le développemen
 ## Sommaire
 - [Architecture globale des outlis Libé Labo](https://github.com/libe-max/Docs/blob/master#architecture-globale)
 - [Choix technologiques](https://github.com/libe-max/Docs/blob/master#choix-technologiques)
-- [Mise en forme du code](https://github.com/libe-max/Docs/blob/master#mise-en-forme-du-code)
+- [Nomenclature et mise en forme du code](https://github.com/libe-max/Docs/blob/master#nomenclature-et-mise-en-forme)
 - [Publication & versionning](https://github.com/libe-max/Docs/blob/master#publication--versionning)
 
 ## Architecture globale
@@ -16,7 +16,7 @@ Architecture globale
 
 Molo sur les librairies
 
-## Mise en forme du code
+## Nomenclature et mise en forme
 
 Standard.js
 
