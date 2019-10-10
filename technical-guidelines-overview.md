@@ -10,7 +10,7 @@ Quelques informations d'ordre général avant de se lancer dans le développemen
 
 ## Architecture globale
 
-[Schéma de l'architecture globale des outils de Libé Labo](https://github.com/libe-max/Docs/raw/master/assets/applications-scheme.png)
+![Schéma de l'architecture globale des outils de Libé Labo](https://github.com/libe-max/Docs/raw/master/assets/applications-scheme.png)
 
 ## Choix technologiques
 
