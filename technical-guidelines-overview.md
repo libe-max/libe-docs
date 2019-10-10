@@ -3,10 +3,10 @@
 Quelques informations d'ordre général avant de se lancer dans le développement ou la mise à jour d'outils ou de formats Libé Labo.
 
 ## Sommaire
-- [Architecture globale des outlis Libé Labo](#architecture-globale)
-- [Choix technologiques](#choix-technologiques)
-- [Mise en forme du code](#mise-en-forme-du-code)
-- [Publication & versionning](#publication--versionning)
+- [Architecture globale des outlis Libé Labo](https://github.com/libe-max/Docs/blob/master#architecture-globale)
+- [Choix technologiques](https://github.com/libe-max/Docs/blob/master#choix-technologiques)
+- [Mise en forme du code](https://github.com/libe-max/Docs/blob/master#mise-en-forme-du-code)
+- [Publication & versionning](https://github.com/libe-max/Docs/blob/master#publication--versionning)
 
 ## Architecture globale
 
