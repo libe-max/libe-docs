@@ -49,6 +49,9 @@ ES6
 BEM method
 Standard.js
 
+### Commits
+commits
+
 ## Publication & versionning
 
 Publication et versionning
