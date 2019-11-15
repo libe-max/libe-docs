@@ -32,7 +32,7 @@ Les principaux projets techniques de Libé Labo et la façon dont ils interagiss
 
 Certains projets ont à leur racine des scripts de démarrage, compilation ou publication. Ces scripts peuvent être des scripts [Shell](https://en.wikipedia.org/wiki/Shell_script), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), ou [JavaScript](https://en.wikipedia.org/wiki/JavaScript) éxécutables par [Node.js](https://nodejs.org/en/).
 
-⚠️ Ces scripts n'ont pas vocation à être éxécutés directement, ils doivent avoir leur commande npm dédiée dans `[PROJET]/package.json` (ex : `scripts: { build: node build.js }`).
+**Attention :** ces scripts n'ont pas vocation à être éxécutés directement, ils doivent avoir leur commande npm dédiée dans `[PROJET]/package.json` (ex : `scripts: { build: node build.js }`).
 
 Dans le cadre des applications React (à l'exception du projet [Libé Tools front](https://github.com/libe-max/libe-tools-front)), et au sujet des outils de CSS modulaire (ex : [styled-components](https://www.styled-components.com/)). Chaque modification de CSS entraînant nécessairement une nouvelle compilation du code, la solution du CSS modulaire est écartée, ne permettant pas de traiter simplement un chamgement de style à appliquer sur toute la production Libé Labo. La solution retenue est d'inclure de manière traditionnelle (par une balise link dans le head du document) des styles communs entre les applications (voir [Libé Static Ressources](https://github.com/libe-max/libe-static-ressources)).
 
@@ -85,7 +85,7 @@ De manière générale, les intentions sont :
 
 ### JavaScript
 
-Tout le JavaScript produit doit être conforme aux standard [ES6]([http://es6-features.org](http://es6-features.org/)), avec possibilité d'utiliser certains éléments plus récents (ex : `async`, `await`), puisque le code est transpilé avant d'être déployé en production.
+Tout le JavaScript produit doit être conforme au standard [ES6]([http://es6-features.org](http://es6-features.org/)), avec possibilité d'utiliser certains éléments plus récents (ex : `async`, `await`), puisque le code est transpilé avant d'être déployé en production.
 
 Le code exécuté par Node.js importe et exporte des modules à la façon [CommonJS](https://fr.wikipedia.org/wiki/CommonJS) :
 
