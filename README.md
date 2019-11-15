@@ -4,16 +4,16 @@ Ce document rassemble les documentations des différents outils et formats de Li
 
 ## Liste des documents
 
-####Design
+#### Design
 
 - **(WIP)** [Principes généreaux du design pour les écrans](https://github.com/libe-max/Docs/blob/master/design-for-screens.md)
 - **(WIP)** [Codes visuels web spécifiques à Libé Labo](https://github.com/libe-max/Docs/blob/master/libe-labo-style-guide.md)
 
-####Tableurs
+#### Tableurs
 
 - [Bonne pratiques pour remplir un Google spreadsheet](https://github.com/libe-max/Docs/blob/master/spreadsheets.md)
 
-####Développement technique des outils
+#### Développement technique des outils
 
 - [Notions générales](https://github.com/libe-max/Docs/blob/master/technical-guidelines-overview.md) – Architecture globale des outils, rêgles de mise en forme, de publication et de versionnage
 - [Libe Apps Template](https://github.com/libe-max/libe-apps-template/blob/master/README.md) – Socle technique commun aux applis Libé Labo
@@ -23,7 +23,7 @@ Ce document rassemble les documentations des différents outils et formats de Li
 - **(WIP)** Libe Data Server (serveur fournissant les données aux applications dynamiques, et conservant des informations de tracking)
 - **(WIP)** Libé Tools (boîte à outils Libé Labo)
 
-####Développement technique des formats
+#### Développement technique des formats
 
 - **(WIP)** Notions générales
 - **(WIP)** Plein écran
