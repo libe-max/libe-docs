@@ -117,6 +117,7 @@ Les projets ayant vocation à être utilisés comme dépendances d'autres projet
 - Lancer à nouveau `npm install` pour mettre à jour `package-lock.json`
 - Commit & push à nouveau : `git commit -m "v{MAJOR}.{MINOR}.{PATCH}" && git push origin master`. Ex : [libe-components@1.1.1](https://github.com/libe-max/libe-components/commit/4270ae8afd7fec16aa5196175d3570a896a4ea8f)
 - Si besoin, transpiler puis publier sur NPM : `npm run build && npm publish`.
+- Dans le cas de [libe-static-ressources](https://github.com/libe-max/libe-static-ressources), ne pas oublier d'uploader les fichiers modifiés sur https://www.liberation.fr/apps/static 
 
 ## Auteurs
 
