@@ -6,7 +6,7 @@ Ce document rassemble les liens vers les notices, documentations graphiques et d
 
 #### Design
 
-- **(WIP)** [Principes généreaux du design pour les écrans](https://github.com/libe-max/Docs/blob/master/design-for-screens.md)
+- **(WIP)** [Principes généraux du design pour les écrans](https://github.com/libe-max/Docs/blob/master/design-for-screens.md)
 - **(WIP)** [Codes visuels web spécifiques à Libé Labo](https://github.com/libe-max/Docs/blob/master/libe-labo-style-guide.md)
 
 #### Tableurs
