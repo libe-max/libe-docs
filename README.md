@@ -1,6 +1,6 @@
 # Libé Labo – Documentations
 
-Ce document rassemble les documentations des différents outils et formats de Libé Labo.
+Ce document rassemble les liens vers les notices, documentations graphiques et documentations techniques relatives aux outils et formats de [Libé Labo](https://www.liberation.fr/libe-labo-data-nouveaux-formats,100538).
 
 ## Liste des documents
 
@@ -16,11 +16,11 @@ Ce document rassemble les documentations des différents outils et formats de Li
 #### Développement technique des outils
 
 - [Notions générales](https://github.com/libe-max/Docs/blob/master/technical-guidelines-overview.md) – Architecture globale des outils, rêgles de mise en forme, de publication et de versionnage
-- [Libe Apps Template](https://github.com/libe-max/libe-apps-template/blob/master/README.md) – Socle technique commun aux applis Libé Labo
+- [Libé Apps Template](https://github.com/libe-max/libe-apps-template/blob/master/README.md) – Socle technique commun aux applis Libé Labo
 - **(WIP)** Libé Components (composants React réutilisables)
 - **(WIP)** Libé Utils (fonctions d'assistance en tout genre: TSV parser, parent finder in DOM, etc.)
-- **(WIP)** Libe Static Ressources (polices, styles et éléments graphiques)
-- **(WIP)** Libe Data Server (serveur fournissant les données aux applications dynamiques, et conservant des informations de tracking)
+- **(WIP)** Libé Static Ressources (polices, styles et éléments graphiques)
+- **(WIP)** Libé Data Server (serveur fournissant les données aux applications dynamiques, et conservant des informations de tracking)
 - **(WIP)** Libé Tools (boîte à outils Libé Labo)
 
 #### Développement technique des formats
