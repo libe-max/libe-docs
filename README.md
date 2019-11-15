@@ -16,7 +16,7 @@ Ce document rassemble les documentations des différents outils et formats de Li
 ####Développement technique des outils
 
 - [Notions générales](https://github.com/libe-max/Docs/blob/master/technical-guidelines-overview.md) – Architecture globale des outils, rêgles de mise en forme, de publication et de versionnage
-- [Libe Apps Template](https://github.com/libe-max/libe-apps-template/) – Socle technique commun aux applis Libé Labo
+- [Libe Apps Template](https://github.com/libe-max/libe-apps-template/blob/master/README.md) – Socle technique commun aux applis Libé Labo
 - **(WIP)** Libé Components (composants React réutilisables)
 - **(WIP)** Libé Utils (fonctions d'assistance en tout genre: TSV parser, parent finder in DOM, etc.)
 - **(WIP)** Libe Static Ressources (polices, styles et éléments graphiques)
