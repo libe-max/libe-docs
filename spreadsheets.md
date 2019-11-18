@@ -1,6 +1,6 @@
 # Spreadsheets – Guide d'utilisation
 
-##Structure du document
+## Structure du document
 
 - L'onglet `_output` est l'onglet qui est lu par le format en ligne. Il rassemble les données des autres onglets. Par conséquent, mieux vaut ne pas y toucher.
 - Il est possible de créer de nouveaux onglets dans le document, cela n'aura pas d'impact sur l'onglet `_output`. Cependant, un spreadsheet bien rangé limite les risques de suppression malencontreuse d'information.
@@ -17,7 +17,7 @@
   - Vider les cellules de la ligne copiée
 - Veiller à ne pas laisser de retour à la ligne en fin de case, ce qui peut arriver lorsque l'on colle dans une case du texte copié ailleurs. Les retours à la ligne en fin de case feront systématiquement planter les applications et seront difficiles à retrouver par la suite, il faut donc être vigilant au moment du remplissage
 
-##À propos des colonnes "ID"
+## À propos des colonnes "ID"
 
 - Certains onglets contiennent une colonne ID (généralement en première position).
 - Un ID est ce qui permet de faire référence à une ligne depuis un autre onglet. Exemple :
@@ -28,7 +28,7 @@
   - Chaque élément d'un onglet doit avoir un ID unique
   - 🚨**On ne change jamais un ID**🚨. Si l'ID d'une ligne est modifié alors que d'autres lignes dans le document mentionnent l'ID, le lien entre ces lignes est rompu.
 
-##Délai de mise à jour dans le format
+## Délai de mise à jour dans le format
 
 - Après que des modifications sont faites dans le document, il faut compter un maximum de 10 minutes pour les voir apparaitre dans le format.
 
