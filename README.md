@@ -17,7 +17,7 @@ Ce document rassemble les liens vers les notices, documentations graphiques et d
 
 - [Notions générales](https://github.com/libe-max/Docs/blob/master/technical-guidelines-overview.md) – Architecture globale des outils, rêgles de mise en forme, de publication et de versionnage
 - [Libé Apps Template](https://github.com/libe-max/libe-apps-template/blob/master/README.md) – Socle technique commun aux applis Libé Labo
-- **(WIP)** Libé Components (composants React réutilisables)
+- [Libé Components](https://github.com/libe-max/libe-components/blob/master/README.md) (composants React réutilisables)
 - **(WIP)** Libé Utils (fonctions d'assistance en tout genre: TSV parser, parent finder in DOM, etc.)
 - **(WIP)** Libé Static Ressources (polices, styles et éléments graphiques)
 - **(WIP)** Libé Data Server (serveur fournissant les données aux applications dynamiques, et conservant des informations de tracking)
