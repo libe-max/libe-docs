@@ -58,7 +58,7 @@ De manière générale, les intentions sont :
 
 - Par convention, dans chaque application, `1rem === 16px`, et les propriétés responsive sont définies en **max-width** autour de deux breakpoints : `63rem` (1008px) et `40rem` (640px).
 
-- Un "block" au sens de la BEM ne doit pas se préoccuper pas de ce qui est en dehors de lui. Les propriétés margin, width, height et position ne peuvent pas être définies à ce niveau.
+- Un "block" au sens de la BEM ne doit pas se préoccuper de ce qui est en dehors de lui. Les propriétés margin, width, height et position ne peuvent pas être définies à ce niveau.
 
 - Pour chaque bloc, le css décrit dans l'ordre :
 
