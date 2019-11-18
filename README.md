@@ -6,16 +6,16 @@ Ce document rassemble les liens vers les notices, documentations graphiques et d
 
 #### Design
 
-- **(WIP)** [Principes généraux du design pour les écrans](https://github.com/libe-max/Docs/blob/master/design-for-screens.md)
-- **(WIP)** [Codes visuels web spécifiques à Libé Labo](https://github.com/libe-max/Docs/blob/master/libe-labo-style-guide.md)
+- **(WIP)** [Principes généraux du design pour les écrans](https://github.com/libe-max/libe-docs/blob/master/design-for-screens.md)
+- **(WIP)** [Codes visuels web spécifiques à Libé Labo](https://github.com/libe-max/libe-docs/blob/master/libe-labo-style-guide.md)
 
 #### Tableurs
 
-- [Bonne pratiques pour remplir un Google spreadsheet](https://github.com/libe-max/Docs/blob/master/spreadsheets.md)
+- [Bonne pratiques pour remplir un Google spreadsheet](https://github.com/libe-max/libe-docs/blob/master/spreadsheets.md)
 
 #### Développement technique des outils
 
-- [Notions générales](https://github.com/libe-max/Docs/blob/master/technical-guidelines-overview.md) – Architecture globale des outils, rêgles de mise en forme, de publication et de versionnage
+- [Notions générales](https://github.com/libe-max/libe-docs/blob/master/technical-guidelines-overview.md) – Architecture globale des outils, rêgles de mise en forme, de publication et de versionnage
 - [Libé Apps Template](https://github.com/libe-max/libe-apps-template/blob/master/README.md) – Socle technique commun aux applis Libé Labo
 - [Libé Components](https://github.com/libe-max/libe-components/blob/master/README.md) (composants React réutilisables)
 - **(WIP)** Libé Utils (fonctions d'assistance en tout genre: TSV parser, parent finder in DOM, etc.)
@@ -39,6 +39,9 @@ Ce document rassemble les liens vers les notices, documentations graphiques et d
 - **(WIP)** Témoignages
 - **(WIP)** Chrono
 - **(WIP)** Quiz
+
+## To do
+- [To do](https://github.com/libe-max/libe-docs/blob/master/roadmap.md)
 
 ## Auteurs
 
