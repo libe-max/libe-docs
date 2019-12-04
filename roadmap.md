@@ -24,3 +24,4 @@
 |      | `libe-components`        | –                       | Make a good looking front-page, host it in libe-static-ressources, and update libe-component's README.|                        |
 |      | `libe-static-ressources` | –                       | "Ressources" is not correct in english, it's "resources"                  |                                                    |
 |      | `libe-static-ressources` | `components.css/lblb-video`| Fix css here                                                           |                                                    |
+|      | `libe-utils`             | `parseTsv`              | Should work without the second parameter                                  |                                                    |
