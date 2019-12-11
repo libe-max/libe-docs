@@ -25,3 +25,4 @@
 |      | `libe-static-ressources` | –                       | "Ressources" is not correct in english, it's "resources"                  |                                                    |
 |      | `libe-static-ressources` | `components.css/lblb-video`| Fix css here                                                           |                                                    |
 |      | `libe-utils`             | `parseTsv`              | Should work without the second parameter                                  |                                                    |
+|      | `libe-apps-template`     | `config.js`             | /src/config.js is imported the ES6 way in /src/App.js and required in /build.js|                                               |
