@@ -26,5 +26,7 @@
 |      | `libe-static-ressources` | `components.css/lblb-video`| Fix css here                                                           |                                                    |
 |      | `libe-utils`             | `parseTsv`              | Should work without the second parameter                                  |                                                    |
 |      | `libe-apps-template`     | `config.js`             | /src/config.js is imported the ES6 way in /src/App.js and required in /build.js|                                               |
-|      | `libe-data-server`       | -                       | Finish total re-write                                                          |                                               |
-|      | `libe-apps-template`     | App.js                  | Clean up, make it a functional component rather than a class one          |                                                    |
+|      | `libe-data-server`       | -                       | Finish total re-write                                                     |                                                    |
+|      | `libe-apps-template`     | `App.js`                  | Clean up, make it a functional component rather than a class one        |                                                    |
+|      | `libe-components`        | -                       | Pass props to root DOM element of every component (className, etc, ...)   |                                                    |
+|      | `libe-components`        | `JSXInterpreter`        | Replace class attribute with className attribute                          |                                                    |
